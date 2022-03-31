@@ -13,7 +13,8 @@ import * as LinkR from 'linkr-api';
 ```
 
 ```dart
-import 'package:linkr/api.dart' as linkr
+// Dart
+import 'package:linkr/api.dart' as LinkR
 ```
 
 <br>
