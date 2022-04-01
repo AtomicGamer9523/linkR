@@ -1,5 +1,6 @@
 {
     "no-inline-html": false,
     "line-length": false,
-    "single-trailing-newline": false
+    "single-trailing-newline": false,
+    "header-increment": false
 }
